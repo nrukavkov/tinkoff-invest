@@ -1,0 +1,1872 @@
+[
+  [
+    {
+      "content": "BKR",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 40852,
+      "endPos": 40855
+    }
+  ],
+  [
+    {
+      "content": "DXC",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 44035,
+      "endPos": 44038
+    }
+  ],
+  [
+    {
+      "content": "XOM",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 47171,
+      "endPos": 47174
+    }
+  ],
+  [
+    {
+      "content": "DFS",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 50414,
+      "endPos": 50417
+    }
+  ],
+  [
+    {
+      "content": "CAT",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 53656,
+      "endPos": 53659
+    }
+  ],
+  [
+    {
+      "content": "PTR",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 56899,
+      "endPos": 56902
+    }
+  ],
+  [
+    {
+      "content": "XRX",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 60034,
+      "endPos": 60037
+    }
+  ],
+  [
+    {
+      "content": "HEAR",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 63166,
+      "endPos": 63170
+    }
+  ],
+  [
+    {
+      "content": "ANAB",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 66408,
+      "endPos": 66412
+    }
+  ],
+  [
+    {
+      "content": "RRC",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 69650,
+      "endPos": 69653
+    }
+  ],
+  [
+    {
+      "content": "MPC",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 72889,
+      "endPos": 72892
+    }
+  ],
+  [
+    {
+      "content": "ABMD",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 76129,
+      "endPos": 76133
+    }
+  ],
+  [
+    {
+      "content": "TCS",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 79268,
+      "endPos": 79271
+    }
+  ],
+  [
+    {
+      "content": "KIM",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 82400,
+      "endPos": 82403
+    }
+  ],
+  [
+    {
+      "content": "HBI",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 85538,
+      "endPos": 85541
+    }
+  ],
+  [
+    {
+      "content": "RF",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 88779,
+      "endPos": 88781
+    }
+  ],
+  [
+    {
+      "content": "HAL",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 91908,
+      "endPos": 91911
+    }
+  ],
+  [
+    {
+      "content": "GT",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 95040,
+      "endPos": 95042
+    }
+  ],
+  [
+    {
+      "content": "IVZ",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 98280,
+      "endPos": 98283
+    }
+  ],
+  [
+    {
+      "content": "CHA",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 101510,
+      "endPos": 101513
+    }
+  ],
+  [
+    {
+      "content": "KHC",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 104750,
+      "endPos": 104753
+    }
+  ],
+  [
+    {
+      "content": "HOG",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 107989,
+      "endPos": 107992
+    }
+  ],
+  [
+    {
+      "content": "AXP",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 111127,
+      "endPos": 111130
+    }
+  ],
+  [
+    {
+      "content": "ALB",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 114369,
+      "endPos": 114372
+    }
+  ],
+  [
+    {
+      "content": "SWN",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 117608,
+      "endPos": 117611
+    }
+  ],
+  [
+    {
+      "content": "VZ",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 120843,
+      "endPos": 120845
+    }
+  ],
+  [
+    {
+      "content": "SYF",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 124086,
+      "endPos": 124089
+    }
+  ],
+  [
+    {
+      "content": "HBAN",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 127328,
+      "endPos": 127332
+    }
+  ],
+  [
+    {
+      "content": "COF",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 130564,
+      "endPos": 130567
+    }
+  ],
+  [
+    {
+      "content": "CVS",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 133804,
+      "endPos": 133807
+    }
+  ],
+  [
+    {
+      "content": "WELL",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 137048,
+      "endPos": 137052
+    }
+  ],
+  [
+    {
+      "content": "AA",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 143535,
+      "endPos": 143537
+    }
+  ],
+  [
+    {
+      "content": "YUM",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 146767,
+      "endPos": 146770
+    }
+  ],
+  [
+    {
+      "content": "EQT",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 150006,
+      "endPos": 150009
+    }
+  ],
+  [
+    {
+      "content": "BABA",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 153145,
+      "endPos": 153149
+    }
+  ],
+  [
+    {
+      "content": "FTI",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 156391,
+      "endPos": 156394
+    }
+  ],
+  [
+    {
+      "content": "EXPE",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 159621,
+      "endPos": 159625
+    }
+  ],
+  [
+    {
+      "content": "FITB",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 162861,
+      "endPos": 162865
+    }
+  ],
+  [
+    {
+      "content": "CFG",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 166098,
+      "endPos": 166101
+    }
+  ],
+  [
+    {
+      "content": "MO",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 169231,
+      "endPos": 169233
+    }
+  ],
+  [
+    {
+      "content": "PVH",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 172466,
+      "endPos": 172469
+    }
+  ],
+  [
+    {
+      "content": "SLB",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 175708,
+      "endPos": 175711
+    }
+  ],
+  [
+    {
+      "content": "TSM",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 178944,
+      "endPos": 178947
+    }
+  ],
+  [
+    {
+      "content": "TXN",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 182185,
+      "endPos": 182188
+    }
+  ],
+  [
+    {
+      "content": "CLF",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 185426,
+      "endPos": 185429
+    }
+  ],
+  [
+    {
+      "content": "FDX",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 188667,
+      "endPos": 188670
+    }
+  ],
+  [
+    {
+      "content": "MRK",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 191911,
+      "endPos": 191914
+    }
+  ],
+  [
+    {
+      "content": "MS",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 195153,
+      "endPos": 195155
+    }
+  ],
+  [
+    {
+      "content": "LMT",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 198391,
+      "endPos": 198394
+    }
+  ],
+  [
+    {
+      "content": "DLPH",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 201636,
+      "endPos": 201640
+    }
+  ],
+  [
+    {
+      "content": "KEY",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 204774,
+      "endPos": 204777
+    }
+  ],
+  [
+    {
+      "content": "ARE",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 207909,
+      "endPos": 207912
+    }
+  ],
+  [
+    {
+      "content": "WM",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 211151,
+      "endPos": 211153
+    }
+  ],
+  [
+    {
+      "content": "MMM",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 214396,
+      "endPos": 214399
+    }
+  ],
+  [
+    {
+      "content": "QCOM",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 217640,
+      "endPos": 217644
+    }
+  ],
+  [
+    {
+      "content": "PFE",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 220880,
+      "endPos": 220883
+    }
+  ],
+  [
+    {
+      "content": "ZION",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 224013,
+      "endPos": 224017
+    }
+  ],
+  [
+    {
+      "content": "MRO",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 227152,
+      "endPos": 227155
+    }
+  ],
+  [
+    {
+      "content": "BLL",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 230385,
+      "endPos": 230388
+    }
+  ],
+  [
+    {
+      "content": "HD",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 233625,
+      "endPos": 233627
+    }
+  ],
+  [
+    {
+      "content": "WFC",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 236762,
+      "endPos": 236765
+    }
+  ],
+  [
+    {
+      "content": "LPL",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 239997,
+      "endPos": 240000
+    }
+  ],
+  [
+    {
+      "content": "TFC",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 243238,
+      "endPos": 243241
+    }
+  ],
+  [
+    {
+      "content": "SPG",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 246475,
+      "endPos": 246478
+    }
+  ],
+  [
+    {
+      "content": "APA",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 249715,
+      "endPos": 249718
+    }
+  ],
+  [
+    {
+      "content": "LH",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 252852,
+      "endPos": 252854
+    }
+  ],
+  [
+    {
+      "content": "CTL",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 256094,
+      "endPos": 256097
+    }
+  ],
+  [
+    {
+      "content": "MAC",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 259329,
+      "endPos": 259332
+    }
+  ],
+  [
+    {
+      "content": "GE",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 262569,
+      "endPos": 262571
+    }
+  ],
+  [
+    {
+      "content": "SQ",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 265810,
+      "endPos": 265812
+    }
+  ],
+  [
+    {
+      "content": "GS",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 269053,
+      "endPos": 269055
+    }
+  ],
+  [
+    {
+      "content": "LTHM",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 272294,
+      "endPos": 272298
+    }
+  ],
+  [
+    {
+      "content": "LUV",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 275534,
+      "endPos": 275537
+    }
+  ],
+  [
+    {
+      "content": "MOS",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 278671,
+      "endPos": 278674
+    }
+  ],
+  [
+    {
+      "content": "GPS",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 281805,
+      "endPos": 281808
+    }
+  ],
+  [
+    {
+      "content": "NKE",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 285039,
+      "endPos": 285042
+    }
+  ],
+  [
+    {
+      "content": "CNC",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 288280,
+      "endPos": 288283
+    }
+  ],
+  [
+    {
+      "content": "COP",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 291523,
+      "endPos": 291526
+    }
+  ],
+  [
+    {
+      "content": "WBA",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 294762,
+      "endPos": 294765
+    }
+  ],
+  [
+    {
+      "content": "BSX",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 297999,
+      "endPos": 298002
+    }
+  ],
+  [
+    {
+      "content": "IRM",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 301242,
+      "endPos": 301245
+    }
+  ],
+  [
+    {
+      "content": "AMT",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 304377,
+      "endPos": 304380
+    }
+  ],
+  [
+    {
+      "content": "NEE",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 307516,
+      "endPos": 307519
+    }
+  ],
+  [
+    {
+      "content": "HPQ",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 310655,
+      "endPos": 310658
+    }
+  ],
+  [
+    {
+      "content": "ETRN",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 313790,
+      "endPos": 313794
+    }
+  ],
+  [
+    {
+      "content": "INGR",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 317029,
+      "endPos": 317033
+    }
+  ],
+  [
+    {
+      "content": "CLX",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 320272,
+      "endPos": 320275
+    }
+  ],
+  [
+    {
+      "content": "CHL",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 323517,
+      "endPos": 323520
+    }
+  ],
+  [
+    {
+      "content": "BTI",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 326652,
+      "endPos": 326655
+    }
+  ],
+  [
+    {
+      "content": "XLNX",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 329895,
+      "endPos": 329899
+    }
+  ],
+  [
+    {
+      "content": "GM",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 333138,
+      "endPos": 333140
+    }
+  ],
+  [
+    {
+      "content": "DAL",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 336268,
+      "endPos": 336271
+    }
+  ],
+  [
+    {
+      "content": "SAVE",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 339403,
+      "endPos": 339407
+    }
+  ],
+  [
+    {
+      "content": "ET",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 342533,
+      "endPos": 342535
+    }
+  ],
+  [
+    {
+      "content": "PG",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 345774,
+      "endPos": 345776
+    }
+  ],
+  [
+    {
+      "content": "T",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 349016,
+      "endPos": 349017
+    }
+  ],
+  [
+    {
+      "content": "F",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 352251,
+      "endPos": 352252
+    }
+  ],
+  [
+    {
+      "content": "BIIB",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 355487,
+      "endPos": 355491
+    }
+  ],
+  [
+    {
+      "content": "CVX",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 358733,
+      "endPos": 358736
+    }
+  ],
+  [
+    {
+      "content": "BIDU",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 361974,
+      "endPos": 361978
+    }
+  ],
+  [
+    {
+      "content": "EXC",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 365219,
+      "endPos": 365222
+    }
+  ],
+  [
+    {
+      "content": "MRNA",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 368461,
+      "endPos": 368465
+    }
+  ],
+  [
+    {
+      "content": "BAC",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 371706,
+      "endPos": 371709
+    }
+  ],
+  [
+    {
+      "content": "WU",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 374843,
+      "endPos": 374845
+    }
+  ],
+  [
+    {
+      "content": "PCG",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 377978,
+      "endPos": 377981
+    }
+  ],
+  [
+    {
+      "content": "WDC",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 381119,
+      "endPos": 381122
+    }
+  ],
+  [
+    {
+      "content": "M",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 384356,
+      "endPos": 384357
+    }
+  ],
+  [
+    {
+      "content": "UAL",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 387591,
+      "endPos": 387594
+    }
+  ],
+  [
+    {
+      "content": "MYL",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 390832,
+      "endPos": 390835
+    }
+  ],
+  [
+    {
+      "content": "WMT",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 393965,
+      "endPos": 393968
+    }
+  ],
+  [
+    {
+      "content": "BMY",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 397211,
+      "endPos": 397214
+    }
+  ],
+  [
+    {
+      "content": "VIPS",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 400453,
+      "endPos": 400457
+    }
+  ],
+  [
+    {
+      "content": "PYPL",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 403589,
+      "endPos": 403593
+    }
+  ],
+  [
+    {
+      "content": "ETSY",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 406834,
+      "endPos": 406838
+    }
+  ],
+  [
+    {
+      "content": "JWN",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 410080,
+      "endPos": 410083
+    }
+  ],
+  [
+    {
+      "content": "EBAY",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 413214,
+      "endPos": 413218
+    }
+  ],
+  [
+    {
+      "content": "KO",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 416458,
+      "endPos": 416460
+    }
+  ],
+  [
+    {
+      "content": "TWTR",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 419701,
+      "endPos": 419705
+    }
+  ],
+  [
+    {
+      "content": "ABBV",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 422946,
+      "endPos": 422950
+    }
+  ],
+  [
+    {
+      "content": "GOSS",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 426190,
+      "endPos": 426194
+    }
+  ],
+  [
+    {
+      "content": "CHEF",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 429323,
+      "endPos": 429327
+    }
+  ],
+  [
+    {
+      "content": "UA",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 432461,
+      "endPos": 432463
+    }
+  ],
+  [
+    {
+      "content": "HLT",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 435702,
+      "endPos": 435705
+    }
+  ],
+  [
+    {
+      "content": "AAL",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 438943,
+      "endPos": 438946
+    }
+  ],
+  [
+    {
+      "content": "UAA",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 442181,
+      "endPos": 442184
+    }
+  ],
+  [
+    {
+      "content": "CSCO",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 445422,
+      "endPos": 445426
+    }
+  ],
+  [
+    {
+      "content": "GOOG",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 448666,
+      "endPos": 448670
+    }
+  ],
+  [
+    {
+      "content": "IRBT",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 451915,
+      "endPos": 451919
+    }
+  ],
+  [
+    {
+      "content": "SIG",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 455154,
+      "endPos": 455157
+    }
+  ],
+  [
+    {
+      "content": "JPM",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 458399,
+      "endPos": 458402
+    }
+  ],
+  [
+    {
+      "content": "TRIP",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 461642,
+      "endPos": 461646
+    }
+  ],
+  [
+    {
+      "content": "COTY",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 464886,
+      "endPos": 464890
+    }
+  ],
+  [
+    {
+      "content": "BA",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 468127,
+      "endPos": 468129
+    }
+  ],
+  [
+    {
+      "content": "DIS",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 471370,
+      "endPos": 471373
+    }
+  ],
+  [
+    {
+      "content": "SNPS",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 474617,
+      "endPos": 474621
+    }
+  ],
+  [
+    {
+      "content": "AMZN",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 477863,
+      "endPos": 477867
+    }
+  ],
+  [
+    {
+      "content": "ACN",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 481110,
+      "endPos": 481113
+    }
+  ],
+  [
+    {
+      "content": "O",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 484356,
+      "endPos": 484357
+    }
+  ],
+  [
+    {
+      "content": "SEDG",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 487597,
+      "endPos": 487601
+    }
+  ],
+  [
+    {
+      "content": "DHR",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 490844,
+      "endPos": 490847
+    }
+  ],
+  [
+    {
+      "content": "JNJ",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 494090,
+      "endPos": 494093
+    }
+  ],
+  [
+    {
+      "content": "FSLR",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 497335,
+      "endPos": 497339
+    }
+  ],
+  [
+    {
+      "content": "TSLA",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 500580,
+      "endPos": 500584
+    }
+  ],
+  [
+    {
+      "content": "ACAD",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 503826,
+      "endPos": 503830
+    }
+  ],
+  [
+    {
+      "content": "SPY",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 507071,
+      "endPos": 507074
+    }
+  ],
+  [
+    {
+      "content": "LB",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 510172,
+      "endPos": 510174
+    }
+  ],
+  [
+    {
+      "content": "LLY",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 513312,
+      "endPos": 513315
+    }
+  ],
+  [
+    {
+      "content": "V",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 516556,
+      "endPos": 516557
+    }
+  ],
+  [
+    {
+      "content": "SPR",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 519799,
+      "endPos": 519802
+    }
+  ],
+  [
+    {
+      "content": "MNK",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 522938,
+      "endPos": 522941
+    }
+  ],
+  [
+    {
+      "content": "INCY",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 526181,
+      "endPos": 526185
+    }
+  ],
+  [
+    {
+      "content": "NFLX",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 529426,
+      "endPos": 529430
+    }
+  ],
+  [
+    {
+      "content": "MOMO",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 532672,
+      "endPos": 532676
+    }
+  ],
+  [
+    {
+      "content": "ABT",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 535916,
+      "endPos": 535919
+    }
+  ],
+  [
+    {
+      "content": "NVDA",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 539160,
+      "endPos": 539164
+    }
+  ],
+  [
+    {
+      "content": "SBUX",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 542302,
+      "endPos": 542306
+    }
+  ],
+  [
+    {
+      "content": "EVH",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 545547,
+      "endPos": 545550
+    }
+  ],
+  [
+    {
+      "content": "CCL",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 548790,
+      "endPos": 548793
+    }
+  ],
+  [
+    {
+      "content": "COST",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 551928,
+      "endPos": 551932
+    }
+  ],
+  [
+    {
+      "content": "MA",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 555175,
+      "endPos": 555177
+    }
+  ],
+  [
+    {
+      "content": "PBI",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 558420,
+      "endPos": 558423
+    }
+  ],
+  [
+    {
+      "content": "FB",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 561560,
+      "endPos": 561562
+    }
+  ],
+  [
+    {
+      "content": "AAPL",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 564699,
+      "endPos": 564703
+    }
+  ],
+  [
+    {
+      "content": "AMAT",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 567946,
+      "endPos": 567950
+    }
+  ],
+  [
+    {
+      "content": "EA",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 571192,
+      "endPos": 571194
+    }
+  ],
+  [
+    {
+      "content": "MU",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 574434,
+      "endPos": 574436
+    }
+  ],
+  [
+    {
+      "content": "RCL",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 577679,
+      "endPos": 577682
+    }
+  ],
+  [
+    {
+      "content": "CRM",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 580970,
+      "endPos": 580973
+    }
+  ],
+  [
+    {
+      "content": "AYX",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 584260,
+      "endPos": 584263
+    }
+  ],
+  [
+    {
+      "content": "MYOK",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 587554,
+      "endPos": 587558
+    }
+  ],
+  [
+    {
+      "content": "MSFT",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 590847,
+      "endPos": 590851
+    }
+  ],
+  [
+    {
+      "content": "GILD",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 594140,
+      "endPos": 594144
+    }
+  ],
+  [
+    {
+      "content": "MFGP",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 597432,
+      "endPos": 597436
+    }
+  ],
+  [
+    {
+      "content": "ADBE",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 600723,
+      "endPos": 600727
+    }
+  ],
+  [
+    {
+      "content": "NEM",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 604016,
+      "endPos": 604019
+    }
+  ],
+  [
+    {
+      "content": "ENDP",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 607307,
+      "endPos": 607311
+    }
+  ],
+  [
+    {
+      "content": "PEP",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 610493,
+      "endPos": 610496
+    }
+  ],
+  [
+    {
+      "content": "TWOU",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 613785,
+      "endPos": 613789
+    }
+  ],
+  [
+    {
+      "content": "RNG",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 616973,
+      "endPos": 616976
+    }
+  ],
+  [
+    {
+      "content": "ZS",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 620161,
+      "endPos": 620163
+    }
+  ],
+  [
+    {
+      "content": "AMD",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 623454,
+      "endPos": 623457
+    }
+  ],
+  [
+    {
+      "content": "ATVI",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 626742,
+      "endPos": 626746
+    }
+  ],
+  [
+    {
+      "content": "ARWR",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 630034,
+      "endPos": 630038
+    }
+  ],
+  [
+    {
+      "content": "INTC",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 633326,
+      "endPos": 633330
+    }
+  ],
+  [
+    {
+      "content": "CARR",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 636614,
+      "endPos": 636618
+    }
+  ],
+  [
+    {
+      "content": "ADSK",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 639903,
+      "endPos": 639907
+    }
+  ],
+  [
+    {
+      "content": "DOCU",
+      "isParticipating": true,
+      "groupNum": 1,
+      "groupName": 1,
+      "startPos": 643197,
+      "endPos": 643201
+    }
+  ]
+]
