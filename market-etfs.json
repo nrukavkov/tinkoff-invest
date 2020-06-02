@@ -1,0 +1,229 @@
+{
+  "trackingId": "5b3224878092f71d",
+  "payload": {
+    "instruments": [
+      {
+        "figi": "BBG005DXDPK9",
+        "ticker": "FXGD",
+        "isin": "IE00B8XB7377",
+        "minPriceIncrement": 0.2,
+        "lot": 1,
+        "currency": "RUB",
+        "name": "Золото",
+        "type": "Etf"
+      },
+      {
+        "figi": "BBG00M8C8Y03",
+        "ticker": "FXKZ",
+        "isin": "IE00BG0C3K84",
+        "minPriceIncrement": 0.1,
+        "lot": 1,
+        "currency": "RUB",
+        "name": "Акции казахстанских компаний",
+        "type": "Etf"
+      },
+      {
+        "figi": "BBG005VKB7D7",
+        "ticker": "FXCN",
+        "isin": "IE00BD3QFB18",
+        "minPriceIncrement": 2,
+        "lot": 1,
+        "currency": "RUB",
+        "name": "Акции китайских компаний",
+        "type": "Etf"
+      },
+      {
+        "figi": "BBG000000000",
+        "ticker": "TUSD",
+        "isin": "RU000A1011S9",
+        "minPriceIncrement": 0.0001,
+        "lot": 1,
+        "currency": "USD",
+        "name": "Вечный портфель USD",
+        "type": "Etf"
+      },
+      {
+        "figi": "BBG000000002",
+        "ticker": "TEUR",
+        "isin": "RU000A1011T7",
+        "minPriceIncrement": 0.0001,
+        "lot": 1,
+        "currency": "EUR",
+        "name": "Вечный портфель EUR",
+        "type": "Etf"
+      },
+      {
+        "figi": "BBG000000001",
+        "ticker": "TRUR",
+        "isin": "RU000A1011U5",
+        "minPriceIncrement": 0.002,
+        "lot": 1,
+        "currency": "RUB",
+        "name": "Вечный портфель RUB",
+        "type": "Etf"
+      },
+      {
+        "figi": "BBG00KMXH2C2",
+        "ticker": "RUSB",
+        "isin": "LU1483649825",
+        "minPriceIncrement": 0.5,
+        "lot": 1,
+        "currency": "RUB",
+        "name": "Долларовые еврооблигации российских эмитентов",
+        "type": "Etf"
+      },
+      {
+        "figi": "BBG005HLSZ23",
+        "ticker": "FXUS",
+        "isin": "IE00BD3QHZ91",
+        "minPriceIncrement": 1,
+        "lot": 1,
+        "currency": "RUB",
+        "name": "Акции американских компаний",
+        "type": "Etf"
+      },
+      {
+        "figi": "BBG0073DLHS1",
+        "ticker": "FXRL",
+        "isin": "IE00BQ1Y6480",
+        "minPriceIncrement": 0.5,
+        "lot": 1,
+        "currency": "RUB",
+        "name": "Акции российских компаний",
+        "type": "Etf"
+      },
+      {
+        "figi": "BBG005N1KZX4",
+        "ticker": "FXRU",
+        "isin": "IE00BD5FH213",
+        "minPriceIncrement": 0.1,
+        "lot": 1,
+        "currency": "RUB",
+        "name": "Еврооблигации российских компаний (USD)",
+        "type": "Etf"
+      },
+      {
+        "figi": "BBG004HNZFH2",
+        "ticker": "FXRB",
+        "isin": "IE00B7L7CP77",
+        "minPriceIncrement": 1,
+        "lot": 1,
+        "currency": "RUB",
+        "name": "Еврооблигации российских компаний (RUB)",
+        "type": "Etf"
+      },
+      {
+        "figi": "BBG00MF4JRQ8",
+        "ticker": "VTBB",
+        "isin": "RU000A1002S8",
+        "minPriceIncrement": 0.1,
+        "lot": 1,
+        "currency": "RUB",
+        "name": "ВТБ VTBB",
+        "type": "Etf"
+      },
+      {
+        "figi": "BBG00R980XY3",
+        "ticker": "FXRW",
+        "isin": "IE00BK224M36",
+        "minPriceIncrement": 0.0001,
+        "lot": 1,
+        "currency": "RUB",
+        "name": "FinEx FXRW",
+        "type": "Etf"
+      },
+      {
+        "figi": "BBG00M0C8YM7",
+        "ticker": "SBMX",
+        "isin": "RU000A0ZZH92",
+        "minPriceIncrement": 0.5,
+        "lot": 1,
+        "currency": "RUB",
+        "name": "Сбербанк SBMX",
+        "type": "Etf"
+      },
+      {
+        "figi": "BBG006GYFHV6",
+        "ticker": "FXMM",
+        "isin": "IE00BL3DYX33",
+        "minPriceIncrement": 0.1,
+        "lot": 1,
+        "currency": "RUB",
+        "name": "Казначейские облигации США",
+        "type": "Etf"
+      },
+      {
+        "figi": "BBG00KMXFK61",
+        "ticker": "RUSE",
+        "isin": "LU1483649312",
+        "minPriceIncrement": 0.5,
+        "lot": 1,
+        "currency": "RUB",
+        "name": "Акции российских компаний, входящие в индекс РТС",
+        "type": "Etf"
+      },
+      {
+        "figi": "BBG00R9805F5",
+        "ticker": "FXWO",
+        "isin": "IE00BK224L29",
+        "minPriceIncrement": 0.0001,
+        "lot": 1,
+        "currency": "RUB",
+        "name": "FinEx FXWO",
+        "type": "Etf"
+      },
+      {
+        "figi": "BBG00NTZWLM4",
+        "ticker": "SBSP",
+        "isin": "RU000A1006W1",
+        "minPriceIncrement": 0.2,
+        "lot": 1,
+        "currency": "RUB",
+        "name": "Сбербанк SBSP",
+        "type": "Etf"
+      },
+      {
+        "figi": "BBG005H7MXN2",
+        "ticker": "FXDE",
+        "isin": "IE00BD3QJN10",
+        "minPriceIncrement": 0.5,
+        "lot": 1,
+        "currency": "RUB",
+        "name": "Акции немецких компаний",
+        "type": "Etf"
+      },
+      {
+        "figi": "BBG00NNQMD85",
+        "ticker": "AKNX",
+        "isin": "RU000A0ZZTQ4",
+        "minPriceIncrement": 0.01,
+        "lot": 1,
+        "currency": "USD",
+        "name": "Технологии 100 БПИФ",
+        "type": "Etf"
+      },
+      {
+        "figi": "BBG005HLTYH9",
+        "ticker": "FXIT",
+        "isin": "IE00BD3QJ757",
+        "minPriceIncrement": 1,
+        "lot": 1,
+        "currency": "RUB",
+        "name": "Акции компаний IT-сектора США",
+        "type": "Etf"
+      },
+      {
+        "figi": "BBG00NRFC2X2",
+        "ticker": "FXTB",
+        "isin": "IE00BL3DYW26",
+        "minPriceIncrement": 0.1,
+        "lot": 1,
+        "currency": "RUB",
+        "name": "Казначейские облигации США (USD)",
+        "type": "Etf"
+      }
+    ],
+    "total": 22
+  },
+  "status": "Ok"
+}
