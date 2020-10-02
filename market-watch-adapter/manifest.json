@@ -1,0 +1,11 @@
+{
+    "name": "MarketWatch Tinkoff Adapter",
+    "version": "1.0",
+    "manifest_version": 2,
+    "content_scripts": [
+      {
+        "matches": ["https://www.marketwatch.com/tools/screener/premarket"],
+        "js": [ "static/jquery.js", "content.js"]
+      }
+    ]
+  }
