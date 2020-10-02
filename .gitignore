@@ -1,2 +1,4 @@
 static.pem
 market-watch-adapter.pem
+.DS_Store
+*.crx

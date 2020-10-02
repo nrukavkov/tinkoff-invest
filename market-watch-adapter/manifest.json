@@ -1,14 +1,23 @@
 {
-    "name": "MarketWatch Tinkoff Adapter",
-    "version": "1.0",
-    "manifest_version": 2,
-    "content_scripts": [
-      {
-        "matches": ["https://www.marketwatch.com/tools/screener/premarket"],
-        "js": [ "static/jquery.js", "content.js"]
-      }
-    ],
-    "icons": { "16": "static/icon16.png",
-                "48": "static/icon64.png",
-                "128": "static/icon128.png" }
-  }
+  "name": "MarketWatch Tinkoff Adapter",
+  "version": "1.0",
+  "manifest_version": 2,
+  "content_scripts": [
+    {
+      "matches": ["https://www.marketwatch.com/tools/screener/premarket"],
+      "js": ["static/jquery.js", "content.js"]
+    }
+  ],
+  "icons": {
+    "16": "static/icon16.png",
+    "48": "static/icon64.png",
+    "128": "static/icon128.png"
+  },
+  "browser_action": {
+    "default_title": "Bear"
+  },
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "permissions": ["tabs"]
+}
